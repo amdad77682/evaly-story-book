@@ -22,6 +22,14 @@
     "access": "public",
     "tag": "prerelease"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amdad77682/evaly-story-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amdad77682/evaly-story-book.git/issues"
+  },
+  "homepage": "https://github.com/amdad77682/evaly-story-book.git#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
