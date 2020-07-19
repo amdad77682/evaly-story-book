@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../src/index.tsx"],"names":[],"mappings":"AAAA,eAAe,cAAf","sourcesContent":["export {} from \"./components\";\n"],"file":"index.js"}
+{"version":3,"sources":["../../src/index.tsx"],"names":["MyComponent"],"mappings":"AAAA,SAASA,WAAT,QAA4B,0BAA5B","sourcesContent":["export { MyComponent } from \"./components/MyComponent\";\n"],"file":"index.js"}
